@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260820-210837-8rve",
+      "title": "Blooperinö, Nyoôm",
+      "commanders": [
+        "Blooperinö",
+        "Nyoôm"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-08-20T13:08:37.000Z",
+      "dateEnd": "2026-08-20T14:20:22.456Z",
+      "dateLabel": "8/20/2026, 9:08:37 PM - 8/20/2026, 10:20:22 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20260820-210837-8rve",
+      "summary": {
+        "borderlandsPct": 0.7647058823529411,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260823-205524-p7qo",
       "title": "The Bloöp",
       "commanders": [
