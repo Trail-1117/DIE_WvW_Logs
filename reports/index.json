@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260830-205955-qc1v",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "23BAE1A4-CEA6-E311-863C-E4115BDF481D",
+        "name": "Furaido Chikin",
+        "tag": "JIPA"
+      },
+      "dateStart": "2026-08-30T12:59:55.000Z",
+      "dateEnd": "2026-08-30T13:59:46.741Z",
+      "dateLabel": "8/30/2026, 8:59:55 PM - 8/30/2026, 9:59:46 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20260830-205955-qc1v",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260827-205040-kp6k",
       "title": "Nyoôm",
       "commanders": [
