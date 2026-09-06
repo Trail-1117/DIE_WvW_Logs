@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260906-184605-4s8d",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-06T10:46:05.000Z",
+      "dateEnd": "2026-09-06T12:06:39.860Z",
+      "dateLabel": "9/6/2026, 6:46:05 PM - 9/6/2026, 8:06:39 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20260906-184605-4s8d",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260903-210654-ij0t",
       "title": "The Bloöp",
       "commanders": [
