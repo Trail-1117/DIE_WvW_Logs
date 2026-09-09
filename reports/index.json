@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260909-211202-o70l",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-09T13:12:02.000Z",
+      "dateEnd": "2026-09-09T13:56:47.571Z",
+      "dateLabel": "9/9/2026, 9:12:02 PM - 9/9/2026, 9:56:47 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20260909-211202-o70l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260907-210007-stf8",
       "title": "The Bloöp",
       "commanders": [
