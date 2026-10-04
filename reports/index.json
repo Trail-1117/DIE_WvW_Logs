@@ -5,6 +5,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-202509-vi7w",
+      "title": "Carvista, The Bloöp",
+      "commanders": [
+        "Carvista",
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-04T12:25:09.000Z",
+      "dateEnd": "2026-10-04T13:36:48.107Z",
+      "dateLabel": "10/4/2026, 8:25:09 PM - 10/4/2026, 9:36:48 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20261004-202509-vi7w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261001-205703-jb8l",
       "title": "Nyoôm, The Blöop",
       "commanders": [
