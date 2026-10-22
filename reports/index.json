@@ -9,6 +9,46 @@
   },
   "entries": [
     {
+      "id": "20261022-211030-unx2",
+      "title": "Aryna Outglow, Nyoôm",
+      "commanders": [
+        "Aryna Outglow",
+        "Nyoôm"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-10-22T13:10:30.000Z",
+      "dateEnd": "2026-10-22T13:58:15.769Z",
+      "dateLabel": "10/22/2026, 9:10:30 PM - 10/22/2026, 9:58:15 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20261022-211030-unx2",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0.5416666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261020-210440-8qwc",
       "title": "The Bloöp",
       "commanders": [
