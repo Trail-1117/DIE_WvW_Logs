@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261125-204525-ibhf",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-25T12:45:25.000Z",
+      "dateEnd": "2026-11-25T14:16:59.789Z",
+      "dateLabel": "11/25/2026, 8:45:25 PM - 11/25/2026, 10:16:59 PM",
+      "url": "https://trail-1117.github.io/DIE_WvW_Logs/?report=20261125-204525-ibhf",
+      "publishedBy": "Trail-1117",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20261115-210004-ty1r",
       "title": "The Bloöp",
       "commanders": [
